@@ -33,3 +33,5 @@ Il progetto affronta la classificazione clinica partendo dalla segmentazione ana
 ## 📊 Risultati Principali
 * L'adozione di un approccio strutturato a 30 feature selezionate tramite ReliefF ha portato l'accuratezza di validazione al **63.33%**, migliorando significativamente il riconoscimento dei soggetti non dementi rispetto alla configurazione a 15 feature[span_16](start_span)[span_16](end_span).
 * *Nota metodologica:* Il progetto costituisce una pipeline dimostrativa e riproducibile; i risultati preliminari evidenziano l'efficacia del preprocessing geometrico e richiedono dataset ampliati per una validazione clinica definitiva[span_17](start_span)[span_17](end_span).
+
+* 📂 **Documentazione Visiva:** All'interno di questa repository trovi anche la presentazione ufficiale del project work (`presentazione_radiomica_ESIB.pdf`) con tutti i dettagli metodologici, i grafici del resampling e i risultati delle matrici di confusione.
